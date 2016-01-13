@@ -11,7 +11,7 @@ namespace TestForGithub
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("Hi this is github in main");
+            Response.Write("Hi");
         }
         private void getval()
         {
