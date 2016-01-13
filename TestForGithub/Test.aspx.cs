@@ -12,6 +12,7 @@ namespace TestForGithub
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("Hi this is github in main");
+            
         }
         private void getval()
         {
@@ -20,6 +21,7 @@ namespace TestForGithub
         private void getvalnew()
         {
             Response.Write("Hi this is github sync");
+            Response.Write("Hi ");
         }
     }
 }
