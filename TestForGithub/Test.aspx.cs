@@ -14,7 +14,9 @@ namespace TestForGithub
 
         }
         private void getval()
-        { 
+        {
+            Response.Write("Hi this is github");
         }
+        
     }
 }
