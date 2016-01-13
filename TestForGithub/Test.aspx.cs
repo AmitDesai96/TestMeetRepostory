@@ -17,6 +17,9 @@ namespace TestForGithub
         {
             Response.Write("Hi this is github");
         }
-        
+        private void getvalnew()
+        {
+            Response.Write("Hi this is github sync");
+        }
     }
 }
